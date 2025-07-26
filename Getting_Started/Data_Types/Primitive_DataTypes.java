@@ -2,7 +2,7 @@ import java.lang.*;
 import java.util.*;
 
 public class Primitive_DataTypes {
-    public static void main(String[] args) {
+    public static void main(string[] args) {
         //    Numeric Data Types
         //    Integer Types: byte, short, int, long 
         //    Floating Point Types: float, double
