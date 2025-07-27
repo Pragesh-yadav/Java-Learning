@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class readingInputs {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // int x = sc.nextInt();
         // byte y = sc.nextByte();
@@ -20,6 +20,7 @@ public class readingInputs {
         char c = sc.next().charAt(0); 
         System.out.println(c);
 
+
     }
-    
+
 }
